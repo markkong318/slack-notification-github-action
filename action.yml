@@ -1,5 +1,7 @@
 name: 'Slack Notification Github Action'
 description: 'A Simple slack notification'
+icon: 'message-square'
+color: 'white'
 runs:
   using: 'node12'
   main: 'dist/index.js'
