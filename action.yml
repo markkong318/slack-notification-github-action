@@ -1,5 +1,5 @@
-name: 'Slack Notification Github Action'
-description: 'A Simple slack notification'
+name: 'Slack Status Notification'
+description: 'A Simple slack notification with status'
 branding:
   icon: 'message-square'
   color: 'white'
