@@ -1,0 +1,5 @@
+name: 'Slack Notification Github Action'
+description: 'A Simple slack notification'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
